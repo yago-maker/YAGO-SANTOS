@@ -1,6 +1,6 @@
 # Hello World! :love_you_gesture:
 
-- Me chamo [Yago Santos](https://www.linkedin.com/in/yago-santos-devmaker) aDesde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral, estou cursando Engenharia de Software, e no momento, estou 
+- Me chamo [Yago Santos](https://www.linkedin.com/in/yago-santos-devmaker) Desde criança amei computação, e procuro ser curioso quando o assunto é tecnologia. agora! estou em busca de novos desafios em geral, estou cursando Engenharia de Software, e no momento, estou 
   estudando as tecnologias da parte do front-end e back-end pela CubosAcademy procurando me tornar fullstack na area de desenvolvedor de software
 
 
