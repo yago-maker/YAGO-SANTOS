@@ -5,7 +5,7 @@
 
 
 
-- Desenvolvimento Fron-end ultilizando HTML, CSS , e a biblioteca React.JS, e a linguagem JavaScript.
+- Desenvolvimento Front-end ultilizando HTML, CSS , e a biblioteca React.JS, e a linguagem JavaScript.
 - Desenvolvimento Back-end utilizando javaScript e pacotes npm | TypeScript | NODE.JS | SQL | GIT 
 - Desenvolvimento de APIs Rest 
 - Experiencia com projeção de banco de dados utilizando PostgreSQL
