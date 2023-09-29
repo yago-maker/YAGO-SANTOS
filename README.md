@@ -10,7 +10,7 @@
 - Desenvolvimento de APIs Rest 
 - Experiencia com projeção de banco de dados utilizando PostgreSQL
 - Experiencia com Git Hub
-- Metodos Agueis : Scrum
+- Metodos Ageis : Scrum
 
 Estou aberto a propostas de emprego, adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, não tenho problema nenhum em conhecer ou trabalhar com novas tecnologias. Caso estiver interessado em bater um papo, estou disponível!
 
